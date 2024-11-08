@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="macros_calculator">Macros Calculator</string>
+    <string name="calories_calculator">Calories Calculator</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="workout_tracker">Workout Tracker</string>
+    <string name="fitness_companion">Fitness Companion</string>
+    <string name="app_logo">App Logo</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_weight_kg">Enter Weight (kg)</string>
+    <string name="enter_height_cm">Enter Height (cm)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="calculate_calories">Calculate Calories</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="enter_daily_calories_needed">Enter daily calories needed</string>
+    <string name="calculate_macros">Calculate Macros</string>
+    <string name="cardio_workouts">Cardio Workouts</string>
+    <string name="gym_workouts">Gym Workouts</string>
+    <string name="show_workouts">Show Workouts</string>
+    <string name="select_muscle_group">Select Muscle Group</string>
+    <string name="chest">Chest</string>
+    <string name="biceps">Biceps</string>
+    <string name="triceps">Triceps</string>
+    <string name="back">Back</string>
+    <string name="legs">Legs</string>
+    <string name="shoulders">Shoulders</string>
+</resources>
